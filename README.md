@@ -1,4 +1,4 @@
 # evbankoski-github.io
-Ethan Bankoski, evbankoski@my.waketech.edu
-This is my school account
-Hold Assignments-
+1. Ethan Bankoski, evbankoski@my.waketech.edu
+2. This is my school account
+3. Hold Assignments-
